@@ -1,6 +1,7 @@
 
 function sayHello() {
-    var x = 1;
+    var x = 6;
+
     console.log("Hello, World!" , x);
 
   }
